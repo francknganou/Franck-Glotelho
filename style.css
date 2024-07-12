@@ -1,0 +1,17 @@
+.image {
+    width : 350px;
+    height: 350px;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+body {
+    text-align: center;
+    background-color: darkgrey;
+    border : 410px solid transparent;
+}
+section {
+    background-color: white;
+    border : 430px 350px solid transparent;
+    border-radius: 15px;
+}
